@@ -1,0 +1,185 @@
+{
+  "Metadata": {
+    "title": "Property 973 — Real estate Marketplace",
+    "description": "Find properties, projects, and daily rentals all in one place."
+  },
+  "Header": {
+    "brandArabic": "عقار",
+    "realEstate": "Real Estate",
+    "projects": "Projects",
+    "dailyRent": "Daily Rent",
+    "mapSearch": "Map Search",
+    "addListing": "+ Add",
+    "login": "Login",
+    "navMain": "Main",
+    "navMobile": "Mobile Main",
+    "ariaMapSearch": "Map Search",
+    "ariaAddListing": "Add Listing",
+    "addMenuTitle": "What would you like to add?",
+    "addMenuCloseAria": "Close",
+    "addMenuListingTitle": "Real estate listing",
+    "addMenuListingSub": "Sale or rent",
+    "addMenuRequestTitle": "Property request",
+    "addMenuRequestSub": "Get notified",
+    "languageNav": "Language"
+  },
+  "Pages": {
+    "loginTitle": "Login",
+    "mapTitle": "Map Search",
+    "addListingTitle": "Add listing",
+    "dailyRentTitle": "Daily Rent",
+    "projectsTitle": "Projects",
+    "addListingFlow": {
+      "roleGroupLabel": "Your role",
+      "role": {
+        "broker": "Broker",
+        "owner": "Owner",
+        "host": "Host"
+      },
+      "listTypeHeading": "What are you trying to list?",
+      "option1": {
+        "hint": "List a property from owner / representative",
+        "title": "With license issuance through Property 973 platform",
+        "badge": "License required"
+      },
+      "option2": {
+        "hint": "Property marketing request",
+        "title": "Request marketing from real estate agents",
+        "badge": "No license"
+      }
+    }
+  },
+  "Footer": {
+    "ariaLabel": "Site footer",
+    "brandArabic": "عقار",
+    "logoSub": "Find properties, projects, and daily rentals all in one place.",
+    "tagline": "Buy, rent, and invest in properties — from apartments to villas and commercial spaces.",
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "appGallery": "AppGallery",
+    "ctaTitle": "List your property today",
+    "ctaSub": "Reach thousands of buyers and tenants across places",
+    "ctaButton": "+ Add Listing",
+    "colSearch": "Search options",
+    "colServices": "Services",
+    "colCompany": "Company",
+    "searchApartmentsRent": "Apartments for rent",
+    "searchApartmentsSale": "Apartments for sale",
+    "searchVillasRent": "Villas for rent",
+    "searchVillasSale": "Villas for sale",
+    "searchFloorsRent": "Floors for rent",
+    "searchLandsSale": "Lands for sale",
+    "searchRentJuffair": "Rent in Juffair ",
+    "searchRentSeef": "Rent in Seef ",
+    "svcPay": "Pay for Services",
+    "svcEjar": "Ejar Contracts",
+    "svcPromote": "Promote Listings",
+    "svcCalculator": "Building Calculator",
+    "svcStats": "Statistics",
+    "svcDailyRent": "Daily Rent",
+    "svcMapSearch": "Map Search",
+    "coBlog": "Blog",
+    "coPartners": "Partners",
+    "coTerms": "Terms & Conditions",
+    "coContact": "Contact Us",
+    "coDonation": "Quick donation service",
+    "copyright": "© {year} Property973.com. All rights reserved.",
+    "licenseLine": "Licensed by Ministry of Industry and Commerce.",
+    "badgeVat": "VAT Registered",
+    "badgeMinistry": "Ministry Approved",
+    "socialFacebook": "Facebook",
+    "socialLinkedIn": "LinkedIn",
+    "socialX": "X",
+    "socialYouTube": "YouTube",
+    "socialInstagram": "Instagram",
+    "socialSnapchat": "Snapchat",
+    "socialTikTok": "TikTok"
+  },
+  "RealEstateFilter": {
+    "filters": "Filters",
+    "filtersAria": "Open filters",
+    "filtersToolbarAria": "Property filters",
+    "segment_allType": "All Type",
+    "segment_apartments": "Apartments",
+    "segment_lands": "Lands",
+    "segment_villas": "Villas",
+    "segment_floors": "Floors",
+    "segment_commercial": "Commercial Offices",
+    "segment_farms": "Farms",
+    "segment_restHouses": "Rest Houses",
+    "segment_city": "City",
+    "cityPanelRegion": "Filter by city",
+    "cityPanelTitle": "Popular cities",
+    "cityOptionAria": "{city}, {count} listings",
+    "city_juffair": "Juffair",
+    "city_seef": "Seef",
+    "city_saar": "Saar",
+    "city_busaiteen": "Busaiteen",
+    "city_hidd": "Hidd"
+  },
+  "OwnerPropertyForm": {
+    "title": "Add property",
+    "subtitle": "List your property as an owner",
+    "closeAria": "Close add property form",
+    "sections": {
+      "listingType": "How do you want to list?",
+      "basic": "Basic information",
+      "location": "Location",
+      "pricing": "Pricing",
+      "details": "Property details",
+      "features": "Features & amenities",
+      "media": "Description & photos",
+      "contact": "Contact & preferences"
+    },
+    "fields": {
+      "purpose": "Purpose",
+      "propertyType": "Property type",
+      "city": "City",
+      "district": "District / area",
+      "address": "Street address",
+      "price": "Price (BHD)",
+      "premiumPeriod": "Rent period",
+      "area": "Area (m²)",
+      "bedrooms": "Bedrooms",
+      "livingRooms": "Living rooms",
+      "wc": "Bathrooms (WC)",
+      "floor": "Floor",
+      "ageLessThan": "Property age",
+      "occupantType": "Occupant type",
+      "streetWidth": "Street width (m)",
+      "streetDirection": "Street direction",
+      "description": "Description",
+      "photos": "Property photos",
+      "contactPhone": "Contact phone",
+      "allowInquiries": "Allow inquiries from buyers/tenants",
+      "aqarPartnersAssistance": "Get help from Aqar partners"
+    },
+    "placeholders": {
+      "district": "e.g. Juffair Block 428",
+      "address": "Building, street, landmark (optional)",
+      "price": "Enter price in BHD",
+      "area": "e.g. 120",
+      "streetWidth": "e.g. 15",
+      "description": "Describe your property, highlights, and terms",
+      "contactPhone": "Mobile number"
+    },
+    "validation": {
+      "contactPhoneRequired": "Contact phone is required",
+      "occupantTypeRequired": "Occupant type is required for rental listings"
+    },
+    "feedback": {
+      "loginRequired": "Please log in to submit a listing. Your session may have expired."
+    },
+    "hints": {
+      "photos": "Upload up to 20 images. First photo is used as the cover.",
+      "coverPhoto": "Cover"
+    },
+    "actions": {
+      "cancel": "Cancel",
+      "submit": "Submit listing",
+      "update": "Save changes",
+      "submitting": "Saving…"
+    },
+    "editTitle": "Edit property"
+  }
+}

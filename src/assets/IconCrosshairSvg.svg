@@ -1,0 +1,19 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="24"
+  height="24"
+  viewBox="0 0 24 24"
+  fill="none"
+  overflow="visible"
+  aria-hidden="true"
+>
+  <circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.25" />
+  <circle cx="12" cy="12" r="1.35" fill="currentColor" />
+  <!-- Ticks start on the ring and extend outward (r=4 → top at y=8, etc.) -->
+  <path
+    d="M12 8 L12 3.5 M12 16 L12 20.5 M8 12 L3.5 12 M16 12 L20.5 12"
+    stroke="currentColor"
+    stroke-width="1.85"
+    stroke-linecap="round"
+  />
+</svg>

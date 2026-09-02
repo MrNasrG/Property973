@@ -1,0 +1,185 @@
+{
+  "Metadata": {
+    "title": "بروبرتي 973 — سوق العقارات",
+    "description": "اعثر على العقارات والمشاريع والإيجار اليومي، كل ذلك في مكان واحد."
+  },
+  "Header": {
+    "brandArabic": "عقار",
+    "realEstate": "العقارات",
+    "projects": "المشاريع",
+    "dailyRent": "الإيجار اليومي",
+    "mapSearch": "البحث على الخريطة",
+    "addListing": "+ أضف إعلانًا",
+    "login": "تسجيل الدخول",
+    "navMain": "القائمة الرئيسية",
+    "navMobile": "القائمة الرئيسية — الجوال",
+    "ariaMapSearch": "البحث على الخريطة",
+    "ariaAddListing": "إضافة إعلان",
+    "addMenuTitle": "ماذا تريد أن تضيف؟",
+    "addMenuCloseAria": "إغلاق",
+    "addMenuListingTitle": "إعلان عقاري",
+    "addMenuListingSub": "بيع أو إيجار",
+    "addMenuRequestTitle": "طلب عقار",
+    "addMenuRequestSub": "تلقي إشعارات",
+    "languageNav": "اللغة"
+  },
+  "Pages": {
+    "loginTitle": "تسجيل الدخول",
+    "mapTitle": "البحث على الخريطة",
+    "addListingTitle": "إضافة إعلان",
+    "dailyRentTitle": "الإيجار اليومي",
+    "projectsTitle": "المشاريع",
+    "addListingFlow": {
+      "roleGroupLabel": "صفة المستخدم",
+      "role": {
+        "broker": "وسيط",
+        "owner": "مالك",
+        "host": "مضيف"
+      },
+      "listTypeHeading": "ماذا تريد أن تدرج؟",
+      "option1": {
+        "hint": "إدراج عقار بصفة مالك / وكيل",
+        "title": "إصدار ترخيص عبر منصة عقار",
+        "badge": "يتطلب ترخيصًا"
+      },
+      "option2": {
+        "hint": "طلب تسويق عقاري",
+        "title": "طلب تسويق من وسطاء عقاريين",
+        "badge": "دون ترخيص"
+      }
+    }
+  },
+  "Footer": {
+    "ariaLabel": "تذييل الموقع",
+    "brandArabic": "عقار",
+    "logoSub": "اعثر على العقارات والمشاريع والإيجار اليومي، كل ذلك في مكان واحد.",
+    "tagline": "اشترِ واستأجر واستثمر في العقارات — من الشقق إلى الفلل والمساحات التجارية.",
+    "googlePlay": "Google Play",
+    "appStore": "App Store",
+    "appGallery": "AppGallery",
+    "ctaTitle": "أدرج عقارك اليوم",
+    "ctaSub": "وصل إعلانك إلى آلاف المشترين والمستأجرين في مختلف المناطق.",
+    "ctaButton": "+ أضف إعلانًا",
+    "colSearch": "خيارات البحث",
+    "colServices": "الخدمات",
+    "colCompany": "الشركة",
+    "searchApartmentsRent": "شقق للإيجار",
+    "searchApartmentsSale": "شقق للبيع",
+    "searchVillasRent": "فلل للإيجار",
+    "searchVillasSale": "فلل للبيع",
+    "searchFloorsRent": "أدوار للإيجار",
+    "searchLandsSale": "أراضي للبيع",
+    "searchRentJuffair": "إيجار في الجفير",
+    "searchRentSeef": "إيجار في السيف",
+    "svcPay": "دفع الخدمات",
+    "svcEjar": "عقود إيجار",
+    "svcPromote": "ترويج الإعلانات",
+    "svcCalculator": "حاسبة البناء",
+    "svcStats": "إحصائيات",
+    "svcDailyRent": "الإيجار اليومي",
+    "svcMapSearch": "البحث على الخريطة",
+    "coBlog": "المدونة",
+    "coPartners": "الشركاء",
+    "coTerms": "الشروط والأحكام",
+    "coContact": "اتصل بنا",
+    "coDonation": "خدمة التبرع السريع",
+    "copyright": "© {year} Property973.com. جميع الحقوق محفوظة.",
+    "licenseLine": "مرخّص من وزارة الصناعة والتجارة.",
+    "badgeVat": "مسجّل ضريبة القيمة المضافة",
+    "badgeMinistry": "معتمد من الوزارة",
+    "socialFacebook": "فيسبوك",
+    "socialLinkedIn": "لينكد إن",
+    "socialX": "إكس",
+    "socialYouTube": "يوتيوب",
+    "socialInstagram": "إنستغرام",
+    "socialSnapchat": "سناب شات",
+    "socialTikTok": "تيك توك"
+  },
+  "RealEstateFilter": {
+    "filters": "تصفية",
+    "filtersAria": "فتح التصفية",
+    "filtersToolbarAria": "تصفية العقارات",
+    "segment_allType": "كل الأنواع",
+    "segment_apartments": "شقق",
+    "segment_lands": "أراضي",
+    "segment_villas": "فلل",
+    "segment_floors": "أدوار",
+    "segment_commercial": "مكاتب تجارية",
+    "segment_farms": "مزارع",
+    "segment_restHouses": "استراحات",
+    "segment_city": "المدينة",
+    "cityPanelRegion": "تصفية حسب المدينة",
+    "cityPanelTitle": "مدن شائعة",
+    "cityOptionAria": "{city}، {count} إعلان",
+    "city_juffair": "الجفير",
+    "city_seef": "السيف",
+    "city_saar": "سار",
+    "city_busaiteen": "البسيتين",
+    "city_hidd": "الحد"
+  },
+  "OwnerPropertyForm": {
+    "title": "إضافة عقار",
+    "subtitle": "أدرج عقارك بصفتك مالكًا",
+    "closeAria": "إغلاق نموذج إضافة العقار",
+    "sections": {
+      "listingType": "كيف تريد الإدراج؟",
+      "basic": "المعلومات الأساسية",
+      "location": "الموقع",
+      "pricing": "التسعير",
+      "details": "تفاصيل العقار",
+      "features": "المميزات والمرافق",
+      "media": "الوصف والصور",
+      "contact": "التواصل والتفضيلات"
+    },
+    "fields": {
+      "purpose": "الغرض",
+      "propertyType": "نوع العقار",
+      "city": "المدينة",
+      "district": "الحي / المنطقة",
+      "address": "عنوان الشارع",
+      "price": "السعر (د.ب)",
+      "premiumPeriod": "فترة الإيجار",
+      "area": "المساحة (م²)",
+      "bedrooms": "غرف النوم",
+      "livingRooms": "غرف المعيشة",
+      "wc": "دورات المياه",
+      "floor": "الطابق",
+      "ageLessThan": "عمر العقار",
+      "occupantType": "نوع الساكن",
+      "streetWidth": "عرض الشارع (م)",
+      "streetDirection": "اتجاه الشارع",
+      "description": "الوصف",
+      "photos": "صور العقار",
+      "contactPhone": "هاتف التواصل",
+      "allowInquiries": "السماح بالاستفسارات من المشترين/المستأجرين",
+      "aqarPartnersAssistance": "الحصول على مساعدة شركاء عقار"
+    },
+    "placeholders": {
+      "district": "مثال: الجفير بلوك 428",
+      "address": "المبنى، الشارع، معلم قريب (اختياري)",
+      "price": "أدخل السعر بالدينار البحريني",
+      "area": "مثال: 120",
+      "streetWidth": "مثال: 15",
+      "description": "صف عقارك ومميزاته وشروطه",
+      "contactPhone": "رقم الجوال"
+    },
+    "validation": {
+      "contactPhoneRequired": "رقم التواصل مطلوب",
+      "occupantTypeRequired": "نوع الساكن مطلوب لإعلانات الإيجار"
+    },
+    "feedback": {
+      "loginRequired": "يرجى تسجيل الدخول لإرسال الإعلان. ربما انتهت صلاحية جلستك."
+    },
+    "hints": {
+      "photos": "ارفع حتى 20 صورة. الصورة الأولى تُستخدم كغلاف.",
+      "coverPhoto": "الغلاف"
+    },
+    "actions": {
+      "cancel": "إلغاء",
+      "submit": "إرسال الإعلان",
+      "update": "حفظ التغييرات",
+      "submitting": "جاري الحفظ…"
+    },
+    "editTitle": "تعديل العقار"
+  }
+}

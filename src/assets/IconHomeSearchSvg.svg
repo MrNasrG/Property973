@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+  <g
+    stroke="currentColor"
+    stroke-width="1.5"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <!-- Roof -->
+    <path d="M3.25 10.5 12 4.85l8.75 5.65" />
+    <!-- House: left wall + floor with open right side near lens -->
+    <path d="M6.25 10.75V19h8.95" />
+    <!-- Right roof drop that merges into lens area -->
+    <path d="M18.35 10.75V13.35" />
+    <!-- Lowercase r -->
+    <path d="M8.35 13.85v5M8.35 14.48c0-.92.73-1.38 1.42-1.38.74 0 1.26.43 1.26 1.08" />
+    <!-- Lens + handle -->
+    <circle cx="17.35" cy="16.08" r="2.72" />
+    <path d="M19.2 17.93 21.35 19.92" />
+  </g>
+</svg>

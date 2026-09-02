@@ -1,0 +1,13 @@
+---
+description: SVG and icons must live in src/assets and be imported via @/assets
+alwaysApply: true
+---
+
+# SVG and icon assets (always)
+
+- Do **not** add large or reusable SVG markup inline in `.tsx`, `.jsx`, or `.js` components.
+- Do add new `.svg` files under `src/assets/` with a clear name (e.g. `IconFeatureSvg.svg`).
+- Do register each icon in `src/assets/index.js` (import + named export) and consume it with `import { IconFeatureSvg } from "@/assets"`.
+- Full wording and rationale: `docs/PROJECT_RULES.md`.
+
+When editing or creating UI that needs an icon, default to a new asset file + barrel export instead of pasting `<svg>` into the component.
